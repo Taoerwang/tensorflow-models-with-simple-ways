@@ -11,7 +11,7 @@ class BiGAN:
     model_name = "BiGAN"
     paper_name = "Adversarial Feature Learning(对抗特征学习)"
     paper_url = "https://arxiv.org/abs/1605.09782"
-    chines = "https://juejin.im/entry/5a36299851882538e2259b80"
+    chinese = "https://juejin.im/entry/5a36299851882538e2259b80"
     data_sets = "MNIST and Fashion-MNIST"
 
     def __init__(self, data_name):
