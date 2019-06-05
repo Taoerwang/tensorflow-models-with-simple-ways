@@ -1,5 +1,5 @@
 # Tensorflow models with simple ways
-Some models with easy understanding code,it will help you understand what the model does.These models can only work with not very good result.
+Some models with easy understanding code,it will help you understand what the model does.These models can only work with not very good results.
 ##  Models list 
 1.Adversarial Networks （Gan）<br>
 * AAE      &nbsp;&nbsp;[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) <br> 
@@ -26,7 +26,7 @@ Some models with easy understanding code,it will help you understand what the mo
 * None<br>
 
 ## Results of some models
-some models with easy understanding code
+The results are based on MNIST or Fashion-MNIST
 
 ### AAE
-
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/aae_Adversarial%20Autoencoders/24000_prediction.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/aae_Adversarial%20Autoencoders/24000.png"/>
