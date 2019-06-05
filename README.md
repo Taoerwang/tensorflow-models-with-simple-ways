@@ -35,6 +35,7 @@ The results are based on MNIST or Fashion-MNIST
 <img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/acgan_/6000.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/acgan_/9000.png"/>
 
 ### Auto_encoder
+Input image &rarr; Hidden layer &rarr;  Output image <br>
 <img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/auto_encoder/10000_real.png"/><img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/auto_encoder/10000_prediction.png"/><img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/auto_encoder/10000_fake.png"/>
 
 ### BGAN
