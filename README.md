@@ -47,3 +47,32 @@ Input image &rarr; Hidden layer &rarr;  Output image <br>
 ### CCGAN
 Real image &rarr; Random cropping image &rarr;  Repaired image <br>
 <img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/ccgan/19000_real.png"/><img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/ccgan/19000_mis.png"/><img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/ccgan/19000_rebuild.png"/>
+
+### CGAN
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cgan/20000.png"/>
+
+### CoGAN
+A: MNIST &nbsp;&nbsp;&nbsp;&nbsp;   B: Rotate 90 degrees MNIST <br>
+The model try to convert between A and B.<br>
+A &rarr; B <br>
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cogan/12000_1_real.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cogan/12000_1_fake.png"/><br>
+B &rarr; A <br>
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cogan/12000_2_real.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cogan/12000_2_fake.png"/>
+
+### CycleGAN
+A: MNIST &nbsp;&nbsp;&nbsp;&nbsp;   B: Rotate 90 degrees MNIST <br>
+The model try to convert between A and B.<br>
+A &rarr; B <br>
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cyclegan/16000_real_a.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cyclegan/16000_fake_a2b.png"/><br>
+B &rarr; A <br>
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cyclegan/16000_real_b.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/cyclegan/16000_fake_b2a.png"/>
+
+### DCGAN
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/dcgan/6000.png"/>
+
+### GAN
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/gan/99000.png"/>
+
+### VAE
+Input image &rarr; Hidden layer &rarr;  Output image <br>
+<img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/vae/11000_real.png"/><img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/vae/11000_prediction.png"/><img width="280" height="280" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/vae/11000_fake.png"/>
