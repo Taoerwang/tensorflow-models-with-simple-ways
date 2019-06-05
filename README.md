@@ -1,5 +1,5 @@
 # tensorflow_model_with_simple_ways
-some models with easy understanding code
+Some models with easy understanding code,it will help you understand what the model does.These models can only work with not very good result.
 
 1.Adversarial Networks （Gan）<br>
 * AAE      &nbsp;&nbsp;[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) <br> 
@@ -25,5 +25,5 @@ some models with easy understanding code
 3.Other Models<br>
 * None<br>
 
-# result <br>
+# Results of some models<br>
 some models with easy understanding code
