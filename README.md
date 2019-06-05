@@ -1,4 +1,4 @@
-# tensorflow model with simple ways
+# Tensorflow models with simple ways
 Some models with easy understanding code,it will help you understand what the model does.These models can only work with not very good result.
 ##  Models list 
 1.Adversarial Networks （Gan）<br>
