@@ -1,7 +1,7 @@
 # Tensorflow models with simple ways
 Some models with easy understanding code,it will help you understand what the model does.These models can only work with not very good results.
 ##  Models list 
-1.Adversarial Networks （Gan）<br>
+1.Adversarial Networks (GAN)<br>
 * AAE      &nbsp;&nbsp;[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) <br> 
 * ACGAN    &nbsp;&nbsp;[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)<br>
 * Auto encoder&nbsp;&nbsp;[Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/abs/1812.05069)<br>
@@ -15,7 +15,7 @@ Some models with easy understanding code,it will help you understand what the mo
 * GAN      &nbsp;&nbsp;[Generative Adversarial Network with a MLP generator and discriminator](https://arxiv.org/abs/1406.2661)<br>
 * VAE      &nbsp;&nbsp;[Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)<br>
 
-2.Special structure Convolutional network<br>
+2.Special structure Convolutional network (Not recurring paper)<br>
 * DenseNet            &nbsp;&nbsp;[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)<br>
 * ResNet              &nbsp;&nbsp;[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)<br>
 * HighwayNet          &nbsp;&nbsp;[Highway Networks](https://arxiv.org/abs/1505.00387)<br>
