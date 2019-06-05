@@ -1,7 +1,7 @@
 # tensorflow_model_with_simple_ways
 some models with easy understanding code
 
-1.Generative Adversarial Networks （Gan）<br>
+1.Adversarial Networks （Gan）<br>
 * AAE      &nbsp;&nbsp;[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) <br> 
 * ACGAN    &nbsp;&nbsp;[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)<br>
 * Auto encoder&nbsp;&nbsp;[Recent Advances in Autoencoder-Based Representation Learning](https://arxiv.org/abs/1812.05069)<br>
