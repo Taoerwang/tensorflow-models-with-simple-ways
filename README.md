@@ -30,3 +30,15 @@ The results are based on MNIST or Fashion-MNIST
 
 ### AAE
 <img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/aae_Adversarial%20Autoencoders/24000_prediction.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/aae_Adversarial%20Autoencoders/24000.png"/>
+
+### ACGAN
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/acgan_/6000.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/acgan_/9000.png"/>
+
+### Auto_encoder
+<img width="290" height="290" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/auto_encoder/10000_real.png"/><img width="290" height="290" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/auto_encoder/10000_prediction.png"/><img width="290" height="290" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/auto_encoder/10000_fake.png"/>
+
+### BGAN
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/bgan/12000.png"/>
+
+### BiGAN
+<img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/bigan/5000.png"/><img width="300" height="300" src="https://github.com/Taoerwang/tensorflow_model_with_simple_ways/raw/master/bigan/5000_prediction.png"/>
