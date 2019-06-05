@@ -20,6 +20,7 @@ some models with easy understanding code
 * ResNet              &nbsp;&nbsp;[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)<br>
 * HighwayNet          &nbsp;&nbsp;[Highway Networks](https://arxiv.org/abs/1505.00387)<br>
 * MobileNet_v1&v2     &nbsp;&nbsp;[MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381)<br>
 
 3.Other Models<br>
 * None<br>
